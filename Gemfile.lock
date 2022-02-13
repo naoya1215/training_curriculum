@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+
     actioncable (6.0.4.6)
       actionpack (= 6.0.4.6)
       nio4r (~> 2.0)
@@ -21,10 +22,12 @@ GEM
     actionpack (6.0.4.6)
       actionview (= 6.0.4.6)
       activesupport (= 6.0.4.6)
+
       rack (~> 2.0, >= 2.0.8)
       rack-test (>= 0.6.3)
       rails-dom-testing (~> 2.0)
       rails-html-sanitizer (~> 1.0, >= 1.2.0)
+
     actiontext (6.0.4.6)
       actionpack (= 6.0.4.6)
       activerecord (= 6.0.4.6)
@@ -33,6 +36,7 @@ GEM
       nokogiri (>= 1.8.5)
     actionview (6.0.4.6)
       activesupport (= 6.0.4.6)
+
       builder (~> 3.1)
       erubi (~> 1.4)
       rails-dom-testing (~> 2.0)
